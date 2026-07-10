@@ -1,16 +1,26 @@
-Product Idea #001
+# Product Ideas
 
-Don't rely solely on self-reported data. 
-Build a behavior-aware decision engine that compares reported workload, mood, and available time with historical completion patterns to generate more realistic study plans.
+## Idea #001
+Behavior-aware AI
 
-Product Idea #002
+The AI should rely more on observed user behavior than on self-reported data when making recommendations.
+
+## Idea #002
 Adaptive Motivation Engine
-Instead of assuming every student is motivated the same way, the AI identifies what keeps each student engaged and personalizes the experience.
 
-Examples:
-Student A → loves streaks.
-Student B → loves progress bars.
-Student C → loves achievements.
-Student D → just wants gentle coaching.
+Different students are motivated differently (streaks, progress bars, achievements, encouragement). The AI should learn what works best for each user.
 
-The AI can even learn over time. If it notices streaks don't influence someone but achievements do, it can shift its emphasis.
+## Idea #003
+Reflection & Gratitude Journal
+
+Help students remember their progress, achievements, and positive moments during stressful academic periods.
+
+## Idea #004
+Recovery Planning
+
+Instead of punishing missed days, help students recover with smaller, achievable plans.
+
+## Idea #005
+Student Owns Decisions
+
+The AI recommends. The student decides.
