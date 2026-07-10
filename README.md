@@ -1,4 +1,4 @@
-# Project Athena (Working Title for now)
+# AI Study & Wellness Agent
 
 An AI-powered Study & Wellness Agent built using Java, Spring Boot, MySQL, and LLM APIs.
 
